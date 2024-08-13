@@ -1,6 +1,6 @@
 {
   "mappings": [
     "/content/aem-edge-gettingstartedsite/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/aem-edge-gettingstartedsite/configuration:/.helix/config.json"
   ]
 }
